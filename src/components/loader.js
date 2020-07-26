@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import ContentLoader from "react-content-loader";
-import style from "../styles/loader.scss";
+import "../styles/loader.scss";
 
 export default class Loader extends Component {
   constructor(props) {

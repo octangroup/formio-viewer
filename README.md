@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Formio Viewer
+[![Netlify Status](https://api.netlify.com/api/v1/badges/34cf8020-f76d-4d48-8fb4-4cff955f6a3f/deploy-status)](https://app.netlify.com/sites/laughing-lewin-3586f3/deploys)
 
 ## Available Scripts
 
